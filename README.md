@@ -15,8 +15,7 @@
 
 ## 💬 About me
 - Speak 3 languages 🗣️
- (Korean - Native, English - Upper Intermediate, Japenese - Biginner)
- (And can write javascript, too.)
+ (Korean - Native, English - Upper Intermediate, Japenese - Biginner) [And Javascript]
 - Play the acoustic guitar for fun. 🎸
 - Highly interested in Javascript. 💻
 - Currently learning and using my Vue.js, Node.js, and MongoDB skills into a real world app on my own.
