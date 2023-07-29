@@ -15,7 +15,7 @@
 
 ## 💬 About me
 - Speak 3 languages 🗣️
- (Korean - Native, English - intermediate, Japenese - biginner)
+ (Korean - Native, English - Upper Intermediate, Japenese - Biginner)
  (And can write javascript, too.)
 - Play the acoustic guitar for fun. 🎸
 - Highly interested in Javascript. 💻
