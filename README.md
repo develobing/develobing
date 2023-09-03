@@ -1,15 +1,15 @@
 # 🖥 Dev. Robin's Gihub page
 
 ## 😄 Thank you for visiting
-- Everything significant is in private repository.
-- Please contact me if you want to work with.
+- Everything significant is in a private repository.
+- Please contact me if you want to work with me.
 
 ## 📋 Portfolio webpage
  - https://dev-robin.com
 
 ## 🧑‍💻 Works operated by Robin
-- https://foocord.com : Food records you ate, or share places you ate at.
-- https://mozipso.com : Gather people by posting when you need to do anything together.
+- https://foocord.com: Record the food you've eaten, or share the places where you've dined.
+- https://mozipso.com: Post to gather like-minded company for any activities.
 
 [ And a number of great works made for other companies. Check out my portfolio site! ]
 
@@ -18,4 +18,4 @@
  (Korean - Native, English - Upper Intermediate, Japenese - Biginner) [And Javascript]
 - Play the acoustic guitar for fun. 🎸
 - Highly interested in Javascript. 💻
-- Currently learning and using Vue.js, Node.js, and MongoDB for a real world app on my own.
+- Currently using React/Vue, Node, MongoDB and other related technologies.
