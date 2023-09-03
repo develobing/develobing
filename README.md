@@ -4,8 +4,12 @@
 - Everything significant is in a private repository.
 - Please contact me if you want to work with me.
 
-## 📋 Portfolio webpage
- - https://dev-robin.com
+## 💬 About me
+- Speak 3 languages 🗣️
+ (Korean - Native, English - Upper Intermediate, Japenese - Biginner) [And Javascript]
+- Play the acoustic guitar for fun. 🎸
+- Highly interested in Javascript. 💻
+- Currently using React/Vue, Node, MongoDB and other related technologies.
 
 ## 🧑‍💻 Works operated by Robin
 - https://foocord.com: Record the food you've eaten, or share the places where you've dined.
@@ -13,9 +17,5 @@
 
 [ And a number of great projects for various companies. Check out my portfolio site to see more! ]
 
-## 💬 About me
-- Speak 3 languages 🗣️
- (Korean - Native, English - Upper Intermediate, Japenese - Biginner) [And Javascript]
-- Play the acoustic guitar for fun. 🎸
-- Highly interested in Javascript. 💻
-- Currently using React/Vue, Node, MongoDB and other related technologies.
+## 📋 Portfolio webpage
+ - https://dev-robin.com
