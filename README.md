@@ -1,4 +1,4 @@
-# 🖥 Dev. Robin's Gihub page
+# 🖥 Dev. Robin's Github page
 
 ## 😄 Thank you for visiting
 - Everything significant is in a private repository.
